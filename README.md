@@ -14,7 +14,7 @@ MSc Dissertation | University of Aberdeen | 2025<br>
 
 An end-to-end ecological forecasting project: given a complex, multi-variable environmental dataset, could a Dynamic Bayesian Network predict ecosystem state changes over time?<br>
 
-Problem: Ecosystem health in the Baltic Sea depends on interacting variables (temperature, nutrient load, species populations) that shift over time. 
+Problem: Ecosystem health in the Baltic Sea depends on interacting variables (temperature, nutrient load, species populations) that shift over time.<br>
 What I did: Independently learned Dynamic Bayesian Networks from first principles, then built the full pipeline in R — data cleaning, feature engineering, model construction, and time-series forecasting.<br>
 Result: Achieved 60% predictive accuracy on a genuinely difficult, high-dimensional dataset with multiple interacting environmental variables.<br>
 Communication: Presented findings and visualisations to an academic audience — translating model output into plain-language insight.<br>

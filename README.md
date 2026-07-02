@@ -1,4 +1,4 @@
-Hi, I'm Aditi 👋
+Hi, I'm Aditi 👋<br>
 
 MSc Data Science graduate exploring roles in data analysis, data engineering, and data science. I'm drawn to the process of digging into messy, multi-variable datasets to find the patterns underneath — and building models that make sense of them. 
 

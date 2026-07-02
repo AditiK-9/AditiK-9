@@ -38,23 +38,23 @@ Stack: Python, FastAPI, Docker, SQL, Git 💻 [Link to repo] · 📝 [Link to wr
 (This one's not built yet — plan in process. )
 
 
-🛠️ Technical Skills
+🛠️ Technical Skills<br>
 Languages & Tools: R, SQL, Python, Power BI, Wolfram Mathematica<br>
-Cloud & Infra: Microsoft Azure (AZ-900), Docker, Linux, Git 
-Data Engineering: ETL pipelines, data cleaning & validation, feature engineering 
-ML & Modelling: Predictive modelling, time-series forecasting, clustering, Dynamic Bayesian Networks 
-Ways of working: Agile, stakeholder communication, technical documentation, data storytelling
+Cloud & Infra: Microsoft Azure (AZ-900), Docker, Linux, Git<br>
+Data Engineering: ETL pipelines, data cleaning & validation, feature engineering<br>
+ML & Modelling: Predictive modelling, time-series forecasting, clustering, Dynamic Bayesian Networks<br>
+Ways of working: Agile, stakeholder communication, technical documentation, data storytelling<br>
 
 
-💼 Experience
-Internship Trainee – Technology, Brytehub (Jan 2026–Present) — Linux/Git/Docker environments, FastAPI, Agile sprints
-Trainee – Data & QA, Broadgate Technologies (Jun 2024) — SQL for data extraction & validation
-Store Colleague, Holland & Barrett (Jul 2024–Dec 2025) — part-time, alongside full-time MSc study
+💼 Experience<br>
+Internship Trainee – Technology, Brytehub (Jan 2026–Present) — Linux/Git/Docker environments, FastAPI, Agile sprints<br>
+Trainee – Data & QA, Broadgate Technologies (Jun 2024) — SQL for data extraction & validation<br>
+Store Colleague, Holland & Barrett (Jul 2024–Dec 2025) — part-time, alongside full-time MSc study<br>
 
 
-🎓 Education
-MSc Data Science, University of Aberdeen (2024–2025)
-BSc (Hons) Biomedical Science, University of Brighton (2023)
-Microsoft Azure Fundamentals (AZ-900) — Passed, Apr 2026
-Data Analytics Accelerator with Distinction — Avado, 2024
+🎓 Education<br>
+MSc Data Science, University of Aberdeen (2024–2025)<br>
+BSc (Hons) Biomedical Science, University of Brighton (2023)<br>
+Microsoft Azure Fundamentals (AZ-900) — Passed, Apr 2026<br>
+Data Analytics Accelerator with Distinction — Avado, 2024<br>
 

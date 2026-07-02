@@ -39,7 +39,7 @@ Stack: Python, FastAPI, Docker, SQL, Git 💻 [Link to repo] · 📝 [Link to wr
 
 
 🛠️ Technical Skills
-Languages & Tools: R, SQL, Python, Power BI, Wolfram Mathematica 
+Languages & Tools: R, SQL, Python, Power BI, Wolfram Mathematica<br>
 Cloud & Infra: Microsoft Azure (AZ-900), Docker, Linux, Git 
 Data Engineering: ETL pipelines, data cleaning & validation, feature engineering 
 ML & Modelling: Predictive modelling, time-series forecasting, clustering, Dynamic Bayesian Networks 

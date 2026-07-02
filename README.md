@@ -1,4 +1,5 @@
 Hi, I'm Aditi 👋
+
 MSc Data Science graduate exploring roles in data analysis, data engineering, and data science. I'm drawn to the process of digging into messy, multi-variable datasets to find the patterns underneath — and building models that make sense of them. 
 
 📍 Caterham, UK · LinkedIn · aditikalyan.p@gmail.com

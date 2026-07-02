@@ -21,9 +21,6 @@ An end-to-end ecological forecasting project: given a complex, multi-variable en
 
 **Stack**: R, Dynamic Bayesian Networks, time-series forecasting, data visualisation 📄 [Link to dissertation PDF]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/f789b66ffdb172e226aa2cd6003e8b22af566de0/MSc_Dissertation__final_.pdf · 💻 [Link to R code repo]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/tree/5d555a99c340e9453bfae4228ec336fdddee2baa/R%20code<br><br>
 
-Note: add 1–2 of your actual charts here as images once you've pulled them from the dissertation — a picture of a forecast plot next to a sentence on what it means does more work than the sentence alone.<br><br>
-
-
 2. [Project name TBD] — User Management API<br>
 **Personal project, inspired by internship work @ Brytehub | 2026**<br>
 

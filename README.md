@@ -3,8 +3,6 @@ Hi, I'm Aditi 👋<br>
 MSc Data Science graduate exploring roles in **Data Science, Data Analysis and Data Engineering**. I'm drawn to the process of digging into messy, multi-variable datasets to find the patterns underneath — and building models that make sense of them.<br>
 
 
-
-
 📍 Caterham, UK · [LinkedIn](https://linkedin.com/in/aditi-kalyanaraman-609aa42b8) · aditikalyan.p@gmail.com<br>
 
 Currently: Technology Intern @ Brytehub — working with Docker, Git, FastAPI and Agile workflows in an enterprise setting.<br>

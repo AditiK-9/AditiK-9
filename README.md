@@ -21,7 +21,7 @@ An end-to-end ecological forecasting project: given a complex, multi-variable en
 
 **Stack**: R, Dynamic Bayesian Networks, time-series forecasting, data visualisation 📄 [Link to dissertation write-up / PDF] · 📊 [Link to visualisations, if shareable] · 💻 [Link to R code repo]<br>
 
-Note: add 1–2 of your actual charts here as images once you've pulled them from the dissertation — a picture of a forecast plot next to a sentence on what it means does more work than the sentence alone.<br>
+Note: add 1–2 of your actual charts here as images once you've pulled them from the dissertation — a picture of a forecast plot next to a sentence on what it means does more work than the sentence alone.<br><br>
 
 
 2. [Project name TBD] — User Management API<br>
@@ -35,7 +35,7 @@ A small backend project applying what I'm learning in my current internship — 
 
 **Stack**: Python, FastAPI, Docker, SQL, Git 💻 [Link to repo] · 📝 [Link to write-up, if you do one]<br>
 
-(This one's not built yet — plan in process. )<br>
+(This one's not built yet — plan in process. )<br><br>
 
 
 🛠️ Technical Skills<br>

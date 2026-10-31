@@ -32,8 +32,8 @@ A full-stack web app where users register, log in and manage a library of books,
 
 **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, JWT, Git 💻 [Link to repo](https://github.com/AditiK-9/User-Book-Management)<br><br>
 
-3. 🎰 Spin the Web — Interactive Wheel with Live API Data
-**Personal project | Made with AI as a learning task | 2026**
+3. 🎰 Spin the Web — Interactive Wheel with Live API Data<br>
+**Personal project |  2026**<br>
 
 A casino-style spin-the-wheel web app. Spin it, land on one of 18 websites, and get live data from public APIs before clicking through.
 

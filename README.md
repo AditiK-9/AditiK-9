@@ -32,6 +32,18 @@ A full-stack web app where users register, log in and manage a library of books,
 
 **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, JWT, Git 💻 [Link to repo](https://github.com/AditiK-9/User-Book-Management)<br><br>
 
+3. 🎰 Spin the Web — Interactive Wheel with Live API Data
+**Personal project | Made with AI as a learning task | 2026**
+
+A casino-style spin-the-wheel web app. Spin it, land on one of 18 websites, and get live data from public APIs before clicking through.
+
+**Problem**: A learning task to understand how a website is hosted and how it pulls live data from public APIs.  
+**What I did**: Used AI to generate the code as a learning exercise, then worked through it step by step to understand how it works. Deployed and self-hosted the site on Windows using IIS. Set up and integrated five public APIs (Wikipedia, NASA, Hacker News, Open Library, Spotify), including API key registration and Spotify's token-based authentication.  
+**What I learned**: How `fetch()` requests and JSON responses work, how API tokens differ from keys, and why secrets must never be committed to a public repo — I removed all keys before publishing.
+
+**Stack**: HTML5 Canvas, CSS, JavaScript (`fetch`, async/await), REST APIs, IIS, Git/GitHub
+
+💻 [Repo](https://github.com/AditiK-9/Spin-the-Web)
 
 🛠️ Technical Skills<br>
 **Languages & Tools**: R, SQL, Python, Power BI, Wolfram Mathematica<br>
@@ -52,4 +64,7 @@ A full-stack web app where users register, log in and manage a library of books,
 **BSc (Hons) Biomedical Science**, University of Brighton (2023)<br>
 Microsoft Azure Fundamentals (AZ-900) — Passed, Apr 2026<br>
 Data Analytics Accelerator with Distinction — Avado, 2024<br>
-
+Building Customised LLMs with OpenAI — Columbia+, Sep 2026<br>
+Prompt Engineering & Programming with OpenAI — Columbia+, Sep 2026<br>
+Data Science Job Simulation (Forage) — BCG X, Aug 2026<br>
+Data Analytics Job Simulation (Forage) — Deloitte, Apr 2026<br>

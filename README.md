@@ -5,7 +5,7 @@ MSc Data Science graduate exploring roles in **Data Science, Data Analysis and D
 
 📍 Caterham, UK · [LinkedIn](https://linkedin.com/in/aditi-kalyanaraman-609aa42b8) · aditikalyan.p@gmail.com<br>
 
-Currently: Technology Intern @ Brytehub — working with Docker, Git, FastAPI and Agile workflows in an enterprise setting.<br><br>
+Currently: Devops Engineer Intern @ Brytehub — working with Docker, Git, FastAPI and Agile workflows in an enterprise setting.<br><br>
 
 
 🔬 Featured Projects<br>
@@ -21,7 +21,7 @@ An end-to-end ecological forecasting project: given a complex, multi-variable en
 
 **Stack**: R, Dynamic Bayesian Networks, time-series forecasting, data visualisation 📄 [Link to dissertation PDF]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/f789b66ffdb172e226aa2cd6003e8b22af566de0/MSc_Dissertation__final_.pdf · 💻 [Link to R code repo]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/tree/5d555a99c340e9453bfae4228ec336fdddee2baa/R%20code<br><br>
 
-2. User & Book Management App — FastAPI + React 
+2. User & Book Management App — FastAPI + React<br>
    **Internship project @ Brytehub | 2026**
 
 A full-stack web app where users register, log in and manage a library of books, built to understand how a real backend and frontend fit together using FastAPI and Git, the tools I'm using in my internship.

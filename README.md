@@ -21,18 +21,16 @@ An end-to-end ecological forecasting project: given a complex, multi-variable en
 
 **Stack**: R, Dynamic Bayesian Networks, time-series forecasting, data visualisation 📄 [Link to dissertation PDF]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/f789b66ffdb172e226aa2cd6003e8b22af566de0/MSc_Dissertation__final_.pdf · 💻 [Link to R code repo]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/tree/5d555a99c340e9453bfae4228ec336fdddee2baa/R%20code<br><br>
 
-2. [Project name TBD] — User Management API<br>
-**Personal project, inspired by internship work @ Brytehub | 2026**<br>
+2. 2. User & Book Management App — FastAPI + React  
+   **Internship project @ Brytehub | 2026**
 
-A small backend project applying what I'm learning in my current internship — FastAPI, Docker, and Git workflows — to build something independently and publicly shareable.<br>
+A full-stack web app where users register, log in and manage a library of books, built to understand how a real backend and frontend fit together using FastAPI and Git, the tools I'm using in my internship.
 
-**Problem**: [what does this app manage — e.g. user registration, roles, authentication?]<br>
-**What I did**: Built a user management API with FastAPI, containerised with Docker, version-controlled with Git using proper commit/branch discipline.<br>
-**Why it matters**: Demonstrates I can independently apply enterprise tooling and patterns (not just follow along in a structured session).<br>
+**Problem**: Small teams need a simple, secure way to manage user accounts and track which resources (here, books) are assigned to whom.  
+**What I did**: Built a REST API with FastAPI, PostgreSQL, SQLAlchemy and Alembic migrations, with JWT authentication and bcrypt password hashing. Built a React (Vite) frontend with reusable components: sidebar navigation, a searchable assign-user modal and filterable book tables. Set up and debugged the Linux environment, and documented setup, API endpoints and known limitations in the README.  
+**Why it matters**: Shows I can build and debug a full-stack app end to end, and explain design decisions such as protected routes, foreign keys and token handling. Built with AI guidance as a learning exercise.
 
-**Stack**: Python, FastAPI, Docker, SQL, Git 💻 [Link to repo] · 📝 [Link to write-up, if you do one]<br>
-
-(This one's not built yet — plan in process. )<br><br>
+**Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, JWT, Git 💻 [Link to repo](https://github.com/AditiK-9/User-Book-Management)<br><br>
 
 
 🛠️ Technical Skills<br>
